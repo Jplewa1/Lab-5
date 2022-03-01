@@ -17,3 +17,36 @@ th{
     background: black;
     color: white;
 }
+
+#earth{
+    border-radius: 80%;
+    position: absolute;
+    top: 6em;
+    right: 350px;
+    width: 350px;
+}
+
+#saturn{
+    border-radius: 80%;
+    position: absolute;
+    top: 34em;
+    right: 275px;
+    width: 500px;
+}
+
+#uranus{
+    border-radius: 80%;
+    position: absolute;
+    top: 56em;
+    right: 350px;
+    width: 350px;
+}
+
+#neptune{
+    border-radius: 80%;
+    position: absolute;
+    top: 82em;
+    right: 350px;
+    width: 350px;
+}
+
