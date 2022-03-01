@@ -1,10 +1,15 @@
 html{
-    background: indigo;
+    background: royalblue;
 }
 
 h1{
     color: white;
 }
+
+h2{
+    color: white;
+}
+
 
 table, tr, td, th{
     border-collapse: collapse;
