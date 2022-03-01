@@ -1,3 +1,8 @@
 html{
-    background: indigo;
+    background: ghostwhite;
+}
+
+table, tr, td{
+    border: 1px solid;
+    padding: 1px;
 }
